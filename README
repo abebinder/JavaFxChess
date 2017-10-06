@@ -1,0 +1,5 @@
+Contributors: Abe Binder, Sam Kottler, Bob Olson, Nelson Xiang
+
+A chess program we team-coded in software design class.
+ Implements the strategy pattern.
+ To execute, compile all and run ChessGUI.java.
